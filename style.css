@@ -1,0 +1,32 @@
+h1{
+    margin-left: 30%;
+    font-style:bold;
+    }
+p{
+      margin-left: 40%;
+    }
+   
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    display:flex ;
+    justify-content: center;
+    
+  }
+  
+  td, th{
+    border: 1px solid #b6b4b4;
+    padding: 8px;
+    text-align: left=;
+    font-weight: 700; 
+  
+  }
+  
+  tr:nth-child(even) {
+    background-color: #d8d8d8;
+    
+  }
+
+     
